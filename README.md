@@ -39,7 +39,7 @@ chmod +x unl0cker
 ./unl0cker --dump-photos --path ~/Desktop/iPhone_Photos
 ```
 
-Disclaimer
+- Disclaimer
 This tool is strictly for educational and authorized security research purposes only. The developer assumes no liability for any misuse or data loss. Ensure you have proper authorization before performing operations on any device.
 License
 Distributed under the MIT License. See ⁠LICENSE⁠ for more information.
