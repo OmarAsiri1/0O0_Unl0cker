@@ -1,0 +1,9 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+unl0cker
+
+# System files
+.DS_Store
